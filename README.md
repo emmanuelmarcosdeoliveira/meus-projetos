@@ -10,7 +10,7 @@ N°|Nome|Link do Repositório|Link do Deploy|
 |--|----|-------------------|--------------|
 |1|Android|https://github.com/emmanuelmarcosdeoliveira/projeto-android|[Android](https://projetos-educacionais-ot3b.vercel.app/)|
 2|Bikcraft|https://github.com/emmanuelmarcosdeoliveira/projeto-bikcraft|[Bikcraft](https://emmanuelmarcosdeoliveira.github.io/projeto-bikcraft/)|
-3|Méida das Notas|https://github.com/emmanuelmarcosdeoliveira/calculando-a-media/tree/main|[Média das Notas](https://emmanuel-calculando-a-media.vercel.app/)|_
+3|Méida das Notas|https://github.com/emmanuelmarcosdeoliveira/calculando-a-media/tree/main|[Média das Notas](https://emmanuel-calculando-a-media.vercel.app/)|
 ---
 ## :floppy_disk: Abaixo segue os projetos e sua descrição.
 |PROJETO|SCREENSHOOT
