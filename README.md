@@ -1,7 +1,7 @@
-## Aqui está alguns dos meus projetos
+## :octocat:**Olá sejam Bem Vindos** Aqui está alguns dos meus projetos
 > :bulb: **Tip:** Abaixo uma tabela resumida de alguns projetos.
 ---
-## Aqui temos uma lista de alguns projetos 
+
 N°|Nome|Link do Repositório|Link do Deploy|
 |--|----|-------------------|--------------|
 |1|Projeto Android|https://github.com/emmanuelmarcosdeoliveira/projeto-android|[Android](https://projetos-educacionais-ot3b.vercel.app/)|
