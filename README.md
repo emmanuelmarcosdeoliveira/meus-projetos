@@ -4,7 +4,8 @@
 ## Aqui temos uma lista de alguns projetos 
 N°|Nome|Link do Repositório|Link do Deploy|
 |--|----|-------------------|--------------|
-|1|Projeto Android|https://www.repositorio.com|[Projeto Android](https://www.deploy.com)|_
+|1|Projeto Android|https://www.repositorio.com|[Projeto Android](https://projetos-educacionais-ot3b.vercel.app/)|
+1|Projeto Bikcraft|https://www.repositorio.com|[Projeto Bikcraft](https://emmanuelmarcosdeoliveira.github.io/projeto-bikcraft/)|_
 ---
 |PROJETO|SCREENSHOOT
 |---------------|:--------: |
