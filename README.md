@@ -1,12 +1,13 @@
 ## Aqui está alguns dos meus projetos
-> :bulb: **Tip:** Abaixo temos uma tabela com os meus projetos.
+> :bulb: **Tip:** Abaixo uma tabela resumida de alguns projetos.
 ---
 ## Aqui temos uma lista de alguns projetos 
 N°|Nome|Link do Repositório|Link do Deploy|
 |--|----|-------------------|--------------|
-|1|Projeto Android|https://github.com/emmanuelmarcosdeoliveira/projeto-android|[Projeto Android](https://projetos-educacionais-ot3b.vercel.app/)|
-2|Projeto Bikcraft|https://github.com/emmanuelmarcosdeoliveira/projeto-bikcraft|[Projeto Bikcraft](https://emmanuelmarcosdeoliveira.github.io/projeto-bikcraft/)|_
+|1|Projeto Android|https://github.com/emmanuelmarcosdeoliveira/projeto-android|[Android](https://projetos-educacionais-ot3b.vercel.app/)|
+2|Projeto Bikcraft|https://github.com/emmanuelmarcosdeoliveira/projeto-bikcraft|[Bikcraft](https://emmanuelmarcosdeoliveira.github.io/projeto-bikcraft/)|_
 ---
+## :floppy_disk: Aqui temos os prjetos e sua descrição
 |PROJETO|SCREENSHOOT
 |---------------|:--------: |
 |Projeto Android|<img src="https://github.com/emmanuelmarcosdeoliveira/projeto-android/blob/main/imagens/Projeto%20-%20droid.gif" width="350" height="180">|
