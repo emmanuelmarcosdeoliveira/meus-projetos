@@ -7,7 +7,7 @@ N°|Nome|Link do Repositório|Link do Deploy|
 |1|Projeto Android|https://github.com/emmanuelmarcosdeoliveira/projeto-android|[Android](https://projetos-educacionais-ot3b.vercel.app/)|
 2|Projeto Bikcraft|https://github.com/emmanuelmarcosdeoliveira/projeto-bikcraft|[Bikcraft](https://emmanuelmarcosdeoliveira.github.io/projeto-bikcraft/)|_
 ---
-## :floppy_disk: Aqui temos os prjetos e sua descrição
+## :floppy_disk: Abaixo segue os projetos e sua descrição.
 |PROJETO|SCREENSHOOT
 |---------------|:--------: |
 |Projeto Android|<img src="https://github.com/emmanuelmarcosdeoliveira/projeto-android/blob/main/imagens/Projeto%20-%20droid.gif" width="350" height="180">|
