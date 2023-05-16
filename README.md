@@ -1,5 +1,6 @@
-## **Olá sejam Bem Vindos :octocat:** Aqui está alguns dos meus projetos
-> :bulb: **Tip:** Abaixo uma tabela resumida de alguns projetos.
+## Olá sejam Bem Vindos Aqui está alguns dos meus projetos
+<br>
+> :bulb: **Tip:** Abaixo uma **tabela resumida** de alguns projetos.
 ---
 
 N°|Nome|Link do Repositório|Link do Deploy|
