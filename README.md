@@ -1,4 +1,4 @@
-## :octocat:**Olá sejam Bem Vindos** Aqui está alguns dos meus projetos
+## **Olá sejam Bem Vindos :octocat:** Aqui está alguns dos meus projetos
 > :bulb: **Tip:** Abaixo uma tabela resumida de alguns projetos.
 ---
 
