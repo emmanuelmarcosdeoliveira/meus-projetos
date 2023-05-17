@@ -2,7 +2,7 @@
  ## Aqui você pode ver alguns dos meus projetos.
 <br>
 
-> :bulb: **Tip:** Abaixo uma **tabela resumida** de alguns projetos.
+> :bulb: **Tip:** Clique no nome e você **sera  direcionado para a descrição** dos projetos.
 
 
 N°|Nome|Link do Repositório|Link do Deploy|
