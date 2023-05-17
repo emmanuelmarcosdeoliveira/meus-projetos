@@ -28,7 +28,7 @@ Acesse o Repositório|https://github.com/emmanuelmarcosdeoliveira/calculando-a-m
 ### Agenda de telefones
 PROJETO|SCREENSHOOT
 |---------------|:--------: |
-|Agenda de Telefones|<img src="https://github.com/emmanuelmarcosdeoliveira/agenda-telefone/blob/main/images/screenshot.png" width="350" height="180">|
+|Agenda de Telefones|<img src="https://github.com/emmanuelmarcosdeoliveira/agenda-telefone/blob/develop/images/Agenda%20Telefone.gif" width="350" height="180">|
 |Tecnologias Utilizadas|DESCRIÇÃO|
 |<ul> <li>HTML5</li> <li>CCS3</li><li>JavaScript</li> </ul>|O intuito desse projeto foi criar uma página para **agenda de telefones**, fazendo o uso da **linguagem JavaScript** para **adição e calculado de total de numeros de telefone.**|DEPLOY|
 |Acesse o projeto|[Agenda de Telefones](https://agenda-telefone-theta.vercel.app/)
