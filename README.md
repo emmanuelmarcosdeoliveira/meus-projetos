@@ -7,8 +7,8 @@
 
 N°|Nome|Link do Repositório|Link do Deploy|
 |--|----|-------------------|--------------|
-5|[Agenda de telefones](#agenda-de-telefones)|https://github.com/emmanuelmarcosdeoliveira/calculando-a-media/tree/main|
-4|[Méida das Notas](#média-das-notas)|https://github.com/emmanuelmarcosdeoliveira/calculando-a-media/tree/main|[Média das Notas](https://emmanuel-calculando-a-media.vercel.app/)|
+5|[Agenda de telefones](#agenda-de-telefones)|https://github.com/emmanuelmarcosdeoliveira/agenda-telefone|[Agenda de telefones](https://agenda-telefone-theta.vercel.app/)|
+4|[Média das Notas](#média-das-notas)|https://github.com/emmanuelmarcosdeoliveira/calculando-a-media/tree/main|[Média das Notas](https://emmanuel-calculando-a-media.vercel.app/)|
 3|[Bikcraft](#bickcraft)|https://github.com/emmanuelmarcosdeoliveira/projeto-bikcraft|[Bikcraft](https://emmanuelmarcosdeoliveira.github.io/projeto-bikcraft/)|
 2|[Formulário Responsivo](#formul%C3%A1rio-responsivo)|https://github.com/emmanuelmarcosdeoliveira/projeto-login|[Formulário Responsivo](https://projeto-login-liard.vercel.app/)|
 |1|[Android](#android)|https://github.com/emmanuelmarcosdeoliveira/projeto-android|[Android](https://projetos-educacionais-ot3b.vercel.app/)|
