@@ -7,8 +7,8 @@
 
 N°|Nome|Link do Repositório|Link do Deploy|
 |--|----|-------------------|--------------|
-5|[Agenda de telefones](#agenda-de-telefones)|https://github.com/emmanuelmarcosdeoliveira/agenda-telefone|[Agenda de telefones](https://agenda-telefone-theta.vercel.app/)|
-4|[Média das Notas](#média-das-notas)|https://github.com/emmanuelmarcosdeoliveira/calculando-a-media/tree/main|[Média das Notas](https://emmanuel-calculando-a-media.vercel.app/)|
+5|[Média das Notas](#média-das-notas)|https://github.com/emmanuelmarcosdeoliveira/calculando-a-media/tree/main|[Média das Notas](https://emmanuel-calculando-a-media.vercel.app/)|
+4|[Agenda de telefones](#agenda-de-telefones)|https://github.com/emmanuelmarcosdeoliveira/agenda-telefone|[Agenda de telefones](https://agenda-telefone-theta.vercel.app/)|
 3|[Bikcraft](#bickcraft)|https://github.com/emmanuelmarcosdeoliveira/projeto-bikcraft|[Bikcraft](https://emmanuelmarcosdeoliveira.github.io/projeto-bikcraft/)|
 2|[Formulário Responsivo](#formul%C3%A1rio-responsivo)|https://github.com/emmanuelmarcosdeoliveira/projeto-login|[Formulário Responsivo](https://projeto-login-liard.vercel.app/)|
 |1|[Android](#android)|https://github.com/emmanuelmarcosdeoliveira/projeto-android|[Android](https://projetos-educacionais-ot3b.vercel.app/)|
@@ -16,15 +16,6 @@ N°|Nome|Link do Repositório|Link do Deploy|
 
 ## :floppy_disk: Abaixo segue os projetos e sua descrição.
 
-### Agenda de telefones
-PROJETO|SCREENSHOOT
-|---------------|:--------: |
-|Agenda de Telefones|<img src="https://github.com/emmanuelmarcosdeoliveira/agenda-telefone/blob/main/images/screenshot.png" width="350" height="180">|
-|Tecnologias Utilizadas|DESCRIÇÃO|
-|<ul> <li>HTML5</li> <li>CCS3</li><li>JavaScript</li> </ul>|O intuito desse projeto foi criar uma página para **agenda de telefones**, fazendo o uso da **linguagem JavaScript** para **adição e calculado de total de numeros de telefone.**|DEPLOY|
-|Acesse o projeto|[Agenda de Telefones](https://agenda-telefone-theta.vercel.app/)
-Acesse o Repositório|https://github.com/emmanuelmarcosdeoliveira/agenda-telefone/tree/main|
----
 ### Média das Notas
 PROJETO|SCREENSHOOT
 |---------------|:--------: |
@@ -34,6 +25,16 @@ PROJETO|SCREENSHOOT
 |Acesse o projeto|[Calculando a Méida](https://emmanuel-calculando-a-media.vercel.app/)
 Acesse o Repositório|https://github.com/emmanuelmarcosdeoliveira/calculando-a-media/tree/main|
 ---
+### Agenda de telefones
+PROJETO|SCREENSHOOT
+|---------------|:--------: |
+|Agenda de Telefones|<img src="https://github.com/emmanuelmarcosdeoliveira/agenda-telefone/blob/main/images/screenshot.png" width="350" height="180">|
+|Tecnologias Utilizadas|DESCRIÇÃO|
+|<ul> <li>HTML5</li> <li>CCS3</li><li>JavaScript</li> </ul>|O intuito desse projeto foi criar uma página para **agenda de telefones**, fazendo o uso da **linguagem JavaScript** para **adição e calculado de total de numeros de telefone.**|DEPLOY|
+|Acesse o projeto|[Agenda de Telefones](https://agenda-telefone-theta.vercel.app/)
+Acesse o Repositório|https://github.com/emmanuelmarcosdeoliveira/agenda-telefone/tree/main|
+---
+
 ### Bickcraft
 PROJETO|SCREENSHOOT
 |---------------|:--------: |
