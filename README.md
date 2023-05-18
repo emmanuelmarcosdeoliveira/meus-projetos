@@ -19,7 +19,7 @@ N°|Nome|Link do Repositório|Link do Deploy|
 ### Média das Notas
 PROJETO|SCREENSHOOT
 |---------------|:--------: |
-|Média das notas|<img src="https://github.com/emmanuelmarcosdeoliveira/calculando-a-media/blob/main/images/preview.jpg" width="350" height="180">|
+|Média das notas|<img src="./img/media notas.gif" width="350" height="180">|
 |Tecnologias Utilizadas|DESCRIÇÃO|
 |<ul> <li>HTML5</li> <li>CCS3</li><li>JavaScript</li> </ul>|A proposta desse projeto foi criar uma página HTML para calcúlo de médias|DEPLOY|
 |Acesse o projeto|[Calculando a Méida](https://emmanuel-calculando-a-media.vercel.app/)
