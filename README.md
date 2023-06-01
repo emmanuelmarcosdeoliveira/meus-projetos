@@ -7,12 +7,12 @@
 
 N°|Nome|Imagem|Repositório|Deploy|Data|
 |--|----|:-|:-----------|--------------|:---:|
-5|[Média das Notas](#média-das-notas)|<img src="https://github.com/emmanuelmarcosdeoliveira/meus-projetos-educacionais/blob/main/img/Group%2010.png" width="150" height="80">|[Repositório](https://github.com/emmanuelmarcosdeoliveira/calculando-a-media/tree/main)|[Acessar](https://encurtador.com.br/GQV25)|30/05/2022|
-<!-- 4|[Agenda de telefones](#agenda-de-telefones)|https://github.com/emmanuelmarcosdeoliveira/agenda-telefone|[Agenda de telefones](https://agenda-telefone-theta.vercel.app/)|
-3|[Bikcraft](#bickcraft)|https://github.com/emmanuelmarcosdeoliveira/projeto-bikcraft|[Bikcraft](https://emmanuelmarcosdeoliveira.github.io/projeto-bikcraft/)|
-2|[Formulário Responsivo](#formul%C3%A1rio-responsivo)|https://github.com/emmanuelmarcosdeoliveira/projeto-login|[Formulário Responsivo](https://projeto-login-liard.vercel.app/)|
-|1|[Android](#android)|https://github.com/emmanuelmarcosdeoliveira/projeto-android|[Android](https://projetos-educacionais-ot3b.vercel.app/)|
---- -->
+5|Calculando a Média|<img src="https://github.com/emmanuelmarcosdeoliveira/meus-projetos-educacionais/blob/main/img/Group%2010.png" width="200" height="140">|[Repositório]()|[Acessar]()|20/04/2023
+4|Agenda de telefones|<img src="image.png" width="200" height="140">|[Repositório]()|[Acessar]()|01/03/2022|
+3|Bikcraft|<img src="https://github.com/emmanuelmarcosdeoliveira/meus-projetos-educacionais/blob/main/img/Group%2010.png" width="200" height="140">|[Repositório](https://emmanuelmarcosdeoliveira.github.io/projeto-bikcraft/)|[Acessar]()|23/02/2022|
+2|Formulario Responsivo|<img src="https://github.com/emmanuelmarcosdeoliveira/meus-projetos-educacionais/blob/main/img/Group%2010.png" width="200" height="140">|[Repositório](https://projeto-login-liard.vercel.app/)|[Acessar]()| 14/01/2023|
+1|Android|<img src="https://github.com/emmanuelmarcosdeoliveira/meus-projetos-educacionais/blob/main/img/Group%2010.png" width="200" height="140">|[Repositório](https://github.com/emmanuelmarcosdeoliveira/projeto-android)|[Acessar](https://projetos-educacionais-ot3b.vercel.app/)|27/12/2022|
+
 
 ## :floppy_disk: Abaixo segue os projetos e sua descrição.
 
