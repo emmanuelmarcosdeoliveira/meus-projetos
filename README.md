@@ -6,8 +6,8 @@
 
 
 N°|Nome|Imagem|Repositório|Deploy|Data|
-|--|----|:-:|------------|--------------|:---:|
-5|[Média das Notas](#média-das-notas)|<img src="https://github.com/emmanuelmarcosdeoliveira/meus-projetos-educacionais/blob/main/img/Group%2010.png" width="250" height="130">|[Repositório](https://github.com/emmanuelmarcosdeoliveira/calculando-a-media/tree/main)|[Média das Notas](https://encurtador.com.br/GQV25)|30/05/2022|
+|--|----|:-|:-----------|--------------|:---:|
+5|[Média das Notas](#média-das-notas)|<img src="https://github.com/emmanuelmarcosdeoliveira/meus-projetos-educacionais/blob/main/img/Group%2010.png" width="150" height="80">|[Repositório](https://github.com/emmanuelmarcosdeoliveira/calculando-a-media/tree/main)|[Acessar](https://encurtador.com.br/GQV25)|30/05/2022|
 4|[Agenda de telefones](#agenda-de-telefones)|https://github.com/emmanuelmarcosdeoliveira/agenda-telefone|[Agenda de telefones](https://agenda-telefone-theta.vercel.app/)|
 3|[Bikcraft](#bickcraft)|https://github.com/emmanuelmarcosdeoliveira/projeto-bikcraft|[Bikcraft](https://emmanuelmarcosdeoliveira.github.io/projeto-bikcraft/)|
 2|[Formulário Responsivo](#formul%C3%A1rio-responsivo)|https://github.com/emmanuelmarcosdeoliveira/projeto-login|[Formulário Responsivo](https://projeto-login-liard.vercel.app/)|
