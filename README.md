@@ -2,7 +2,8 @@
  ## Aqui você pode ver alguns dos meus projetos.
 <br>
 
-> :bulb: **Tip:** Clique em **Acessar** var ver o projeto. em **Repositório** você terá uma prev descrição do Projeto.
+> :bulb: **Tip:** Clique em **Acessar** var ver o projeto.
+ >:construction: **Clicando em Repositório** você terá acesso a uma breve descrição do Projeto.
 
 
 N°|Nome|Imagem|Repositório|Deploy|Data|
