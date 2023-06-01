@@ -2,7 +2,7 @@
  ## Aqui você pode ver alguns dos meus projetos.
 <br>
 
-> :bulb: **Tip:** Clique no nome e você **sera  direcionado para a descrição** dos projetos.
+> :bulb: **Tip:** Clique em **Acessar** var ver o projeto. em **Repositório** você terá uma prev descrição do Projeto.
 
 
 N°|Nome|Imagem|Repositório|Deploy|Data|
@@ -13,7 +13,7 @@ N°|Nome|Imagem|Repositório|Deploy|Data|
 2|Formulario Responsivo|<img src="https://github.com/emmanuelmarcosdeoliveira/meus-projetos-educacionais/blob/main/img/login.png" width="200" height="140">|[Repositório](https://github.com/emmanuelmarcosdeoliveira/projeto-login)|[Acessar](https://projeto-login-liard.vercel.app/)| 29/12/2022|
 1|Android|<img src="https://github.com/emmanuelmarcosdeoliveira/meus-projetos-educacionais/blob/main/img/android.png" width="200" height="140">|[Repositório](https://github.com/emmanuelmarcosdeoliveira/projeto-android)|[Acessar](https://projetos-educacionais-ot3b.vercel.app/)|27/12/2022|
 
-
+<!-- 
 ## :floppy_disk: Abaixo segue os projetos e sua descrição.
 
 ### Média das Notas
@@ -61,4 +61,4 @@ Acesse o Repositório|https://github.com/emmanuelmarcosdeoliveira/calculando-a-m
 |<ul> <li>HTML5</li> <li>CCS3</li> </ul>|<p style="text-align:left">Nesse exercício foi criado uma pagina com base em HTML e CSS, contando um pouco da história do masacote Android, aonde temos links que direcionam para as páginas de Dan Morril que fez a primeira versão do mascote e também para a página de Irina Block, a ilutradora do mascote. Nessa página, também temos a descrição dos nomes das versões do Android desde a sua versão inicial que é a v1.5</p>|DEPLOY|    |
 |Acesse o projeto|[projeto android](https://projetos-educacionais-ot3b.vercel.app/)|
 Acesse o Repositório|https://github.com/emmanuelmarcosdeoliveira/projeto-android|
----
+--- -->
