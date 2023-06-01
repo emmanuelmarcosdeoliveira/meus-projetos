@@ -7,8 +7,8 @@
 
 N°|Nome|Imagem|Repositório|Deploy|Data|
 |--|----|:-|:-----------|--------------|:---:|
-5|Calculando a Média|<img src="https://github.com/emmanuelmarcosdeoliveira/meus-projetos-educacionais/blob/main/img/Group%2010.png" width="200" height="140">|[Repositório]()|[Acessar]()|20/04/2023
-4|Agenda de telefones|<img src="image.png" width="200" height="140">|[Repositório]()|[Acessar]()|01/03/2022|
+5|Calculando a Média|<img src="https://github.com/emmanuelmarcosdeoliveira/meus-projetos-educacionais/blob/main/img/Calulando%20a%20M%C3%A9dia.png" width="200" height="140">|[Repositório]()|[Acessar]()|20/04/2023
+4|Agenda de telefones|<img src="https://github.com/emmanuelmarcosdeoliveira/meus-projetos-educacionais/blob/main/img/Agenda%20de%20Telefones.png" width="200" height="140">|[Repositório]()|[Acessar]()|01/03/2022|
 3|Bikcraft|<img src="https://github.com/emmanuelmarcosdeoliveira/meus-projetos-educacionais/blob/main/img/Group%2010.png" width="200" height="140">|[Repositório](https://emmanuelmarcosdeoliveira.github.io/projeto-bikcraft/)|[Acessar]()|23/02/2022|
 2|Formulario Responsivo|<img src="https://github.com/emmanuelmarcosdeoliveira/meus-projetos-educacionais/blob/main/img/Group%2010.png" width="200" height="140">|[Repositório](https://projeto-login-liard.vercel.app/)|[Acessar]()| 14/01/2023|
 1|Android|<img src="https://github.com/emmanuelmarcosdeoliveira/meus-projetos-educacionais/blob/main/img/Group%2010.png" width="200" height="140">|[Repositório](https://github.com/emmanuelmarcosdeoliveira/projeto-android)|[Acessar](https://projetos-educacionais-ot3b.vercel.app/)|27/12/2022|
