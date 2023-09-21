@@ -8,6 +8,7 @@
 
 N°|Nome|Imagem|Repositório|Deploy|Data|
 |--|----|:-|:-----------|--------------|:---:|
+9|Brafé|<img src="https://github.com/emmanuelmarcosdeoliveira/meus-projetos-educacionais/blob/main/img/brafe-note.png" width="200" height="120">|[Repositório](https://github.com/emmanuelmarcosdeoliveira/css_avancado)|[Acessar](https://css-avancado.vercel.app/)|20/09/2023|" width="200" height="120">|[Repositório](https://github.com/emmanuelmarcosdeoliveira/grunt-dev)|[Acessar](https://sorteadornumeros-tau.vercel.app/)|19/08/2023|
 8|Sortedor de Números|<img src="https://github.com/emmanuelmarcosdeoliveira/meus-projetos-educacionais/blob/main/img/sort.png" width="200" height="120">|[Repositório](https://github.com/emmanuelmarcosdeoliveira/grunt-dev)|[Acessar](https://sorteadornumeros-tau.vercel.app/)|19/08/2023|
 7|Flex-Blog|<img src="https://github.com/emmanuelmarcosdeoliveira/meus-projetos-educacionais/blob/main/img/flex-blog.png" width="200" height="120">|[Repositório](https://github.com/emmanuelmarcosdeoliveira/flex-Blog)|[Acessar](https://flex-blog-one.vercel.app/)|18/08/2023|
 6|Bikcraft |<img src="https://github.com/emmanuelmarcosdeoliveira/meus-projetos-educacionais/blob/main/img/bik.png" width="200" height="120">|[Repositório](https://github.com/emmanuelmarcosdeoliveira/bikcraft)|[Acessar](https://bikcraft-woad.vercel.app/)|21/07/2023|
