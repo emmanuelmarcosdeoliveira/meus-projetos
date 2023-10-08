@@ -4,19 +4,97 @@
 
 > :bulb: **Dica:** Clique em **Acessar** você sera direcioando para o projeto on-line. <br>
  >:construction: **Clicando em Repositório** você terá acesso a o repositório com uma breve descrição do Projeto.
+<br>
+<br>
+<div >
+ 
+N°|Nome|Imagem|
+|:---: |:----:|:---: |
+9|Brafé|<img src="https://github.com/emmanuelmarcosdeoliveira/meus-projetos-educacionais/blob/main/img/brafe-note.png" width="200" height="120">
+Repositório|Deploy|Data Inclusão|
+|[Acessar](https://github.com/emmanuelmarcosdeoliveira/css_avancado)|[Acessar](https://css-avancado.vercel.app/)|20/09/2023|
+<br>
+<br>
 
 
-N°|Nome|Imagem|Repositório|Deploy|Data|
-|--|----|:-|:-----------|--------------|:---:|
-9|Brafé|<img src="https://github.com/emmanuelmarcosdeoliveira/meus-projetos-educacionais/blob/main/img/brafe-note.png" width="200" height="120">|[Repositório](https://github.com/emmanuelmarcosdeoliveira/css_avancado)|[Acessar](https://css-avancado.vercel.app/)|20/09/2023|" width="200" height="120">|[Repositório](https://github.com/emmanuelmarcosdeoliveira/grunt-dev)|[Acessar](https://sorteadornumeros-tau.vercel.app/)|19/08/2023|
-8|Sortedor de Números|<img src="https://github.com/emmanuelmarcosdeoliveira/meus-projetos-educacionais/blob/main/img/sort.png" width="200" height="120">|[Repositório](https://github.com/emmanuelmarcosdeoliveira/grunt-dev)|[Acessar](https://sorteadornumeros-tau.vercel.app/)|19/08/2023|
-7|Flex-Blog|<img src="https://github.com/emmanuelmarcosdeoliveira/meus-projetos-educacionais/blob/main/img/flexblog-note.png" width="200" height="120">|[Repositório](https://github.com/emmanuelmarcosdeoliveira/flex-Blog)|[Acessar](https://flex-blog-one.vercel.app/)|18/08/2023|
-6|Bikcraft |<img src="https://github.com/emmanuelmarcosdeoliveira/meus-projetos-educacionais/blob/main/img/bik.png" width="200" height="120">|[Repositório](https://github.com/emmanuelmarcosdeoliveira/bikcraft)|[Acessar](https://bikcraft-woad.vercel.app/)|21/07/2023|
-5|Agenda de telefones|<img src="https://github.com/emmanuelmarcosdeoliveira/meus-projetos-educacionais/blob/main/img/Agenda.png" width="200" height="140">|[Repositório](https://github.com/emmanuelmarcosdeoliveira/agenda-telefone)|[Acessar](https://agenda-telefone-theta.vercel.app/)|13/04/2023|
-4|Calculando a Média|<img src="https://github.com/emmanuelmarcosdeoliveira/meus-projetos-educacionais/blob/main/img/media.png" width="200" height="140">|[Repositório](https://github.com/emmanuelmarcosdeoliveira/calculando-a-media)|[Acessar](https://emmanuel-calculando-a-media.vercel.app/)|18/03/2023|
-3|Bikcraft-landingPage|<img src="https://github.com/emmanuelmarcosdeoliveira/meus-projetos-educacionais/blob/main/img/Bikcraft-home.png" width="200" height="140">|[Repositório](https://github.com/emmanuelmarcosdeoliveira/projeto-bikcraft-landing-page)|[Acessar](https://emmanuelmarcosdeoliveira.github.io/projeto-bikcraft-landing-page/)|23/02/2022|
-2|Formulario Responsivo|<img src="https://github.com/emmanuelmarcosdeoliveira/meus-projetos-educacionais/blob/main/img/login.png" width="200" height="140">|[Repositório](https://github.com/emmanuelmarcosdeoliveira/projeto-login)|[Acessar](https://projeto-login-liard.vercel.app/)| 29/12/2022|
-1|Android|<img src="https://github.com/emmanuelmarcosdeoliveira/meus-projetos-educacionais/blob/main/img/android.png" width="200" height="140">|[Repositório](https://github.com/emmanuelmarcosdeoliveira/projeto-android)|[Acessar](https://projetos-educacionais-ot3b.vercel.app/)|27/12/2022|
+
+N°|Nome|Imagem|
+|:---: |:----:|:---: |
+8 |Sorteador<br> de Numeros|<img src="https://github.com/emmanuelmarcosdeoliveira/meus-projetos-educacionais/blob/main/img/sort.png" width="200" height="120">|
+Repositório|Deploy|Data Inclusão|
+|[Acessar](https://github.com/emmanuelmarcosdeoliveira/grunt-dev)|[Acessar](https://sorteadornumeros-tau.vercel.app/)|19/08/2023|
+<br>
+<br>
+
+N°|Nome|Imagem|
+|:---: |:----:|:---: |
+7|FlexBlog|<img src="https://github.com/emmanuelmarcosdeoliveira/meus-projetos-educacionais/blob/main/img/flexblog-note.png" width="200" height="120">|
+Repositório|Deploy|Data Inclusão|
+|[Acessar](https://github.com/emmanuelmarcosdeoliveira/flex-Blog)|[Acessar](https://css-avancado.vercel.app/)|20/09/2023||[Acessar](https://flex-blog-one.vercel.app/)|18/08/2023|
+<br>
+<br>
+
+N°|Nome|Imagem|
+|:---: |:----:|:---: |
+6|Bikcraft |<img src="https://github.com/emmanuelmarcosdeoliveira/meus-projetos-educacionais/blob/main/img/bik.png" width="200" height="120">|
+Repositório|Deploy|Data Inclusão|
+[Acessar](https://github.com/emmanuelmarcosdeoliveira/bikcraft)|[Acessar](https://bikcraft-woad.vercel.app/)|21/07/2023|
+<br>
+<br>
+
+N°|Nome|Imagem|
+|:---: |:----:|:---: |
+5|Agenda<br>de telefones|<img src="https://github.com/emmanuelmarcosdeoliveira/meus-projetos-educacionais/blob/main/img/Agenda.png" width="200" height="140">|
+Repositório|Deploy|Data Inclusão|
+[Acessar](https://github.com/emmanuelmarcosdeoliveira/agenda-telefone)|[Acessar](https://agenda-telefone-theta.vercel.app/)|13/04/2023|
+<br>
+<br>
+
+N°|Nome|Imagem|
+|:---: |:----:|:---: |
+4|Calculando<br> a Média|<img src="https://github.com/emmanuelmarcosdeoliveira/meus-projetos-educacionais/blob/main/img/media.png" width="200" height="140">|
+Repositório|Deploy|Data Inclusão|
+[Acessar](https://github.com/emmanuelmarcosdeoliveira/calculando-a-media)|[Acessar](https://emmanuel-calculando-a-media.vercel.app/)|18/03/2023|
+<br>
+<br>
+
+N°|Nome|Imagem|
+|:---: |:----:|:---: |
+3|Bikcraft<br>landingPage|<img src="https://github.com/emmanuelmarcosdeoliveira/meus-projetos-educacionais/blob/main/img/Bikcraft-home.png" width="200" height="140">|
+Repositório|Deploy|Data Inclusão|
+[Acessar](https://github.com/emmanuelmarcosdeoliveira/projeto-bikcraft-landing-page)|[Acessar](https://emmanuelmarcosdeoliveira.github.io/projeto-bikcraft-landing-page/)|23/02/2022|
+<br>
+<br>
+
+N°|Nome|Imagem|
+|:---: |:----:|:---: |
+2|Formulario<br>Responsivo|<img src="https://github.com/emmanuelmarcosdeoliveira/meus-projetos-educacionais/blob/main/img/login.png" width="200" height="140">|
+Repositório|Deploy|Data Inclusão|
+[Acessar](https://github.com/emmanuelmarcosdeoliveira/projeto-login)|[Acessar](https://projeto-login-liard.vercel.app/)| 29/12/2022|
+<br>
+<br>
+
+N°|Nome|Imagem|
+|:---: |:----:|:---: |
+1|Android   |<img src="https://github.com/emmanuelmarcosdeoliveira/meus-projetos-educacionais/blob/main/img/android.png" width="200" height="140">|
+Repositório|Deploy|Data Inclusão|
+[Acessar](https://github.com/emmanuelmarcosdeoliveira/projeto-android)|[Acessar](https://projetos-educacionais-ot3b.vercel.app/)|27/12/2022|
+<br>
+<br>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 <!-- 
 ## :floppy_disk: Abaixo segue os projetos e sua descrição.
