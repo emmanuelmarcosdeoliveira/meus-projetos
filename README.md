@@ -7,6 +7,23 @@
 <br>
 <br>
 <div >
+
+
+N°|Nome|Imagem|
+|:---: |:----:|:---: |
+11|Bikcraft<br>SASS|<img src="https://github.com/emmanuelmarcosdeoliveira/meus-projetos/blob/main/img/Bikcraft-v1-demo.png" width="200" height="120">
+Repositório|Deploy|Data Inclusão|
+|[Acessar](https://github.com/emmanuelmarcosdeoliveira/bikcraft_v1_sass)|[Acessar](https://bikcraft-v1-sass.vercel.app/)|08/10/2023|
+<br>
+<br>
+
+N°|Nome|Imagem|
+|:---: |:----:|:---: |
+10|WildBeast|<img src="https://github.com/emmanuelmarcosdeoliveira/meus-projetos/blob/main/img/Wilbeast-demo.png" width="200" height="120">
+Repositório|Deploy|Data Inclusão|
+|[Acessar](https://github.com/emmanuelmarcosdeoliveira/Wildbeast)|[Acessar](https://wildbeast-blond.vercel.app/)|01/10/2023|
+<br>
+<br>
  
 N°|Nome|Imagem|
 |:---: |:----:|:---: |
