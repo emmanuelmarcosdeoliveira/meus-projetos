@@ -30,7 +30,7 @@ N°|Nome|Imagem|
 |:---: |:----:|:---: |
 7|FlexBlog|<img src="https://github.com/emmanuelmarcosdeoliveira/meus-projetos-educacionais/blob/main/img/flexblog-note.png" width="200" height="120">|
 Repositório|Deploy|Data Inclusão|
-|[Acessar](https://github.com/emmanuelmarcosdeoliveira/flex-Blog)|[Acessar](https://css-avancado.vercel.app/)|20/09/2023||[Acessar](https://flex-blog-one.vercel.app/)|18/08/2023|
+|[Acessar](https://github.com/emmanuelmarcosdeoliveira/flex-Blog)|[Acessar](https://flex-blog-one.vercel.app/)|20/09/2023|
 <br>
 <br>
 
