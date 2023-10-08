@@ -1,4 +1,4 @@
-# Olá sejam Bem Vindos!!
+# Olá seja Bem Vindo!!
  ## Aqui você pode ver alguns dos meus projetos.
 <br>
 
